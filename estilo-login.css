@@ -1,0 +1,37 @@
+*{margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;}
+
+body{background-color: #5D5B6A}
+
+#bloco-login{width: 400px;
+    height: 200px;
+    background-color: #758184;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 175px}
+
+.input{width: 300px;
+    margin-top: 20px;
+    height: 25px;
+    font-family: 'dejavu sans mono';}
+
+.input-senha{margin-top: 20px;
+    width: 60px;
+    background-color: #516091;
+    font-size: 15px;
+    height: 25px;
+    color: black;
+    font-family: 'dejavu sans mono'}
+
+P{text-align: center;
+    font-family: 'dejavu sans mono';
+    font-weight: bolder;
+    height: 25px}
